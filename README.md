@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi :fireworks:, I'm Max 
 
 <!--
 **maximsan/maximsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![maximsan's github stats](https://github-readme-stats.vercel.app/api?username=maximsan&show_icons=true&theme=prussian)
