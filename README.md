@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![maximsan's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximsan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 ![maximsan's github stats](https://github-readme-stats.vercel.app/api?username=maximsan&show_icons=true&theme=prussian)
