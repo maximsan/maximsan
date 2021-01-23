@@ -1,5 +1,10 @@
-### Hi :fireworks:, I'm Max 
+### Hi! I'm Max 
 
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning node + posgressql + next + graphql
+- 👯 I’m looking to collaborate on popular react / graphql open source library
+- 📫 How to reach me:
+  - [linkedin](https://www.linkedin.com/in/maksim-shchutsky-206000112/)
 <!--
 **maximsan/maximsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
