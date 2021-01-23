@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 𝗦𝘁𝗮𝘁𝘀
+<details>
+  <summary>Github stats</summary>
+  <img alt="maximsan's github stats" src="https://github-readme-stats.vercel.app/api?username=maximsan&show_icons=true&theme=prussian"/>
+</details
 
-![maximsan's github stats](https://github-readme-stats.vercel.app/api?username=maximsan&show_icons=true&theme=prussian)
