@@ -1,7 +1,6 @@
 ### Hi! I'm Max 
 
-- 🔭 I’m currently working on my side projects
-- :palm_tree: I'm travelling and working
+- :palm_tree: I'm travelling and working on my side projects
 - 🌱 I’m currently learning node + posgressql + next + graphql
 - 👯 I’m looking forward to collaborate on popular react / graphql open source library
 - 📫 How to reach me:
