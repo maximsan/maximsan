@@ -7,7 +7,7 @@
   - [linkedin](https://www.linkedin.com/in/maksim-shchutsky-206000112/)
   - [email](maksim.shchytski@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,apollo,graphql,nodejs,nestjs,postgres](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,ts,apollo,graphql,nodejs,nestjs,postgres)](https://skillicons.dev)
 
 <details>
   <summary>Github stats</summary>
