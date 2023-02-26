@@ -1,10 +1,12 @@
 ### Hi! I'm Max 
 
 - 🔭 I’m currently working on my side projects
+- :palm_tree: I'm travelling and working
 - 🌱 I’m currently learning node + posgressql + next + graphql
-- 👯 I’m looking to collaborate on popular react / graphql open source library
+- 👯 I’m looking forward to collaborate on popular react / graphql open source library
 - 📫 How to reach me:
   - [linkedin](https://www.linkedin.com/in/maksim-shchutsky-206000112/)
+  - [email](maksim.shchytski@gmail.com)
 <!--
 **maximsan/maximsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
