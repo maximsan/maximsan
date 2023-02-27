@@ -1,5 +1,7 @@
 ### Hi! I'm Max 
 
+![](https://komarev.com/ghpvc/?username=maximsan&color=orange)
+
 - :palm_tree: I'm travelling and working on my side projects
 - 🌱 I’m currently learning node + posgressql + next + graphql
 - 👯 I’m looking forward to collaborate on popular react / graphql open source library
