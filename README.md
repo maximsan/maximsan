@@ -1,6 +1,6 @@
 ### Hi! I'm Max (@maximsan)
 
-![](https://komarev.com/ghpvc/?username=maximsan&color=orange)
+![](https://komarev.com/ghpvc/?username=maximsan&color=brightgreen&abbreviated=true)
 
 - 🌱 My current main focus is nextjs/graphql/nestjs/posgressql
 - 👯 I’m looking forward to collaborate on popular react/nextjs/graphql open source library, feel free to reach me out
