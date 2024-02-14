@@ -1,10 +1,10 @@
-### Hi! I'm Max 
+### Hi! I'm Max (@maximsan)
 
 ![](https://komarev.com/ghpvc/?username=maximsan&color=orange)
 
-- :palm_tree: I'm travelling and working on my side projects
-- 🌱 I’m currently learning node + posgressql + next + graphql
-- 👯 I’m looking forward to collaborate on popular react / graphql open source library
+- 🌱 My current main focus is nextjs/graphql/nestjs/posgressql
+- 👯 I’m looking forward to collaborate on popular react/nextjs/graphql open source library, feel free to reach me out
+
 - 📫 How to reach me:
   - [linkedin](https://www.linkedin.com/in/maksim-shchutsky-206000112/)
   - [email](maksim.shchytski@gmail.com)
